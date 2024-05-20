@@ -2,6 +2,8 @@
 
 Author: T. G. Blackburn
 
+Peer-reviewed paper: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.022234
+
 Pre-print: https://arxiv.org/abs/2312.03592
 
 Notebook by: Óscar Amaro 2023
